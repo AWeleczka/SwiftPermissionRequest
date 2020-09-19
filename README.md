@@ -2,6 +2,13 @@
 *A set of tools with the goal of making the management and request of permissions easiers and more user-friendly in and for Swift*
 - **Documentation**: https://aweleczka.github.io/SwiftPermissionRequest/
 
+---
+
+### Note
+I do not have access to a mac any longer, therefore  development on this project is on ice from my side.
+
+---
+
 ## License
 ### MIT License
 Copyright (c) 2018 Alexander Weleczka
